@@ -31,6 +31,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-black?style=for-the-badge&logo=kalilinux&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
 <img align="left" width="400" src="https://www.animenewsnetwork.com/hotlink/thumbnails/crop1200x630gHG/cms/the-list/69790/bebop_09_21-1-.jpg">
 <br>
